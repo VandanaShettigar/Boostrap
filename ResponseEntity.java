@@ -1,0 +1,4 @@
+
+public class ResponseEntity<T> {
+
+}
